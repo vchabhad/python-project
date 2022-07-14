@@ -1,0 +1,91 @@
+{
+    "userinfo": [
+        {
+            "user_name": "updated",
+            "user_phone_no.": "updated",
+            "user_email": "ck",
+            "user_password": "Ck@123",
+            "user_address": "updated"
+        },
+        {
+            "user_name": "updated",
+            "user_phone_no.": "updated",
+            "user_email": "ck",
+            "user_password": "Ck@123",
+            "user_address": "updated"
+        },
+        {
+            "user_name": "kl",
+            "user_phone_no.": "kl",
+            "user_email": "zk",
+            "user_password": "Zk@123",
+            "user_address": "kl"
+        },
+        {
+            "user_name": "updated",
+            "user_phone_no.": "updated",
+            "user_email": "zk",
+            "user_password": "Zk@123",
+            "user_address": "updated"
+        },
+        {
+            "user_name": "vsl123",
+            "user_phone_no.": "123",
+            "user_email": "vsl@113.com",
+            "user_password": "Vsl@123"
+        },
+        {
+            "user_name": "test123",
+            "user_phone_no.": "123",
+            "user_email": "test123",
+            "user_password": "Test@123"
+        },
+        {
+            "user_name": "vishal",
+            "user_phone_no.": "bhavik",
+            "user_email": "bhavik@bhavik",
+            "user_password": "Bhavik@123"
+        },
+        {
+            "user_name": "vikas",
+            "user_phone_no.": "vikas",
+            "user_email": "vikas",
+            "user_password": "Vikas@123"
+        },
+        {
+            "user_name": "vikas",
+            "user_phone_no.": "vikas",
+            "user_email": "vikash",
+            "user_password": "Vikash@123",
+            "user_address": "updated"
+        },
+        {
+            "user_name": "vishal",
+            "user_phone_no.": "9033536894",
+            "user_email": "vchabhad@yahoo.com",
+            "user_password": "Vishal@2001",
+            "user_address": " 114563 nj"
+        },
+        {
+            "user_name": "bhavik",
+            "user_phone_no.": "bhavik",
+            "user_email": "bhavik",
+            "user_password": "Bhavik@123",
+            "user_address": "Bhavik"
+        },
+        {
+            "user_name": "jonhn",
+            "user_phone_no.": "john",
+            "user_email": "john",
+            "user_password": "John@123",
+            "user_address": "john"
+        },
+        {
+            "user_name": "bh",
+            "user_phone_no.": "bh",
+            "user_email": "bh",
+            "user_password": "Bh@123",
+            "user_address": "bh"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "foodinfo": [
+        {
+            "food_id": "1",
+            "food_name": "Tandoori chicken",
+            "food_quantity": "4 piece",
+            "food_price": "240 INR",
+            "food_discount": "10 %",
+            "food_stock": "10"
+        },
+        {
+            "food_id": "2",
+            "food_name": "Vegan Burger ",
+            "food_quantity": "1 Piece ",
+            "food_price": "320 INR",
+            "food_discount": "10 %",
+            "food_stock": "10"
+        },
+        {
+            "food_id": "3",
+            "food_name": "Truffle Cake ",
+            "food_quantity": "500gm",
+            "food_price": "900 INR",
+            "food_discount": "10%",
+            "food_stock": "10"
+        }
+    ]
+}
